@@ -1,4 +1,4 @@
-package com.example.codewars.eightKyu
+package sevenKyu
 
 /*
 In this kata you should simply determine, whether a given year is a leap year or not. In case you don't know the rules, here they are:
